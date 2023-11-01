@@ -11,6 +11,8 @@ class TableViewController: UITableViewController {
 
     var typeDishes = TypeDishes.getDihes()
     
+    var ue = "ut"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
